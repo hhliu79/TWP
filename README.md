@@ -19,6 +19,6 @@ Here we provide the implementation of our method based on the Corafull dataset. 
 * `< LifeModel/ >` contains the implementation of all the continual learning method for GNNs, including the baseline methods and our method;
 * `< dataset/ >`  contains file to load the dataset; 
 * `< models/ >` contains the implementation of the GNN backbone;
-* `< training/ >` contains file to set seed.
-* The file `< train.py >` is used to execute the training process on the dataset Corafull.
+* `< training/ >` contains file to set seed;
+* The file `< train.py >` is used to execute the training process on the dataset Corafull;
 * The file `< run.sh >` contains an example to run the code.
