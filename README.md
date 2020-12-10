@@ -6,9 +6,9 @@ See the file [requirements.txt](https://github.com/hhliu79/TWP/blob/master/requi
 
 # Datasets
 ## Node classification
-We conduct experiments on four public datasets based on [DGL](https://docs.dgl.ai/en/0.4.x/).<br>
+We conduct experiments on four public datasets (Corafull, Amazon Computer, PPI, Reddit) based on [DGL](https://docs.dgl.ai/en/0.4.x/).<br>
 
 ## Graph classification
-We conduct experiments on one public dataset based on [DGLlife](https://lifesci.dgl.ai/index.html).
+We conduct experiments on one public dataset (Tox21) based on [DGLlife](https://lifesci.dgl.ai/index.html).
 
 # Overview
