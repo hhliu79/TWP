@@ -6,6 +6,7 @@ See the file [requirements.txt](https://github.com/hhliu79/TWP/blob/master/requi
 
 # Datasets
 For node level classification task, we conduct experiments on four public datasets based on [DGL](https://docs.dgl.ai/en/0.4.x/).
-For graph level classification task, we conduct experiments on one public dataset based on [DGLlife]()
+
+For graph level classification task, we conduct experiments on one public dataset based on [DGLlife](https://lifesci.dgl.ai/index.html).
 
 # Overview
