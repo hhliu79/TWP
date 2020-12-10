@@ -1,2 +1,3 @@
-PyTorch implementation of FactorGCN
+PyTorch implementation of TWP
+
 Overcoming Catastrophic Forgetting in Graph Neural Networks, AAAI2021
