@@ -11,4 +11,10 @@ We conduct experiments on four public datasets (Corafull, Amazon Computer, PPI, 
 ## Graph classification
 We conduct experiments on one public dataset (Tox21) based on [DGLlife](https://lifesci.dgl.ai/index.html).
 
+# Models
+We use [DGL](https://docs.dgl.ai/en/0.4.x/) to implement all the GNN models.
+
 # Overview
+Here we provide the implementation of our method based on the Corafull dataset. The repository is organised as follows:
+
+
