@@ -15,7 +15,7 @@ We conduct experiments on one public dataset (Tox21) based on [DGLlife](https://
 We use [DGL](https://docs.dgl.ai/en/0.4.x/) to implement all the GNN models.
 
 # Overview
-Here we provide the implementation of our method based on the Corafull dataset. The repository is organised as follows:
+Here we provide the implementation of our method based on the Corafull dataset. The folder `< corafull_amazon/ >` is organised as follows:
 * `< LifeModel/ >` contains the implementation of all the continual learning method for GNNs, including the baseline methods and our method;
 * `< dataset/ >`  contains file to load the dataset; 
 * `< models/ >` contains the implementation of the GNN backbone;
