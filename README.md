@@ -17,7 +17,7 @@ We use [DGL](https://docs.dgl.ai/en/0.4.x/) to implement all the GNN models.
 # Overview
 Here we provide the implementation of our method based on the Corafull dataset. The folder `< corafull_amazon/ >` is organised as follows:
 * `< LifeModel/ >` contains the implementation of all the continual learning method for GNNs, including the baseline methods and our method;
-* `< dataset/ >`  contains file to load the dataset; 
+* `< dataset/ >`  contains code to load the dataset; 
 * `< models/ >` contains the implementation of the GNN backbone;
 * `< training/ >` contains file to set seed;
 * The file `< train.py >` is used to execute the whole training process on the Corafull dataset;
