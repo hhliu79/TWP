@@ -20,5 +20,5 @@ Here we provide the implementation of our method based on the Corafull dataset. 
 * `< dataset/ >`  contains file to load the dataset; 
 * `< models/ >` contains the implementation of the GNN backbone;
 * `< training/ >` contains file to set seed;
-* The file `< train.py >` is used to execute the training process on the dataset Corafull;
+* The file `< train.py >` is used to execute the whole training process on the Corafull dataset;
 * The file `< run.sh >` contains an example to run the code.
