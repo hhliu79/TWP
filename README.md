@@ -16,5 +16,7 @@ We use [DGL](https://docs.dgl.ai/en/0.4.x/) to implement all the GNN models.
 
 # Overview
 Here we provide the implementation of our method based on the Corafull dataset. The repository is organised as follows:
-* Dta
-
+* LifeModel/ 
+* dataset/ contains the necessary dataset files for Cora
+* models/
+* training/
