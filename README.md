@@ -4,6 +4,14 @@ Overcoming Catastrophic Forgetting in Graph Neural Networks, AAAI2021
 # 
 ![image](https://github.com/hhliu79/TWP/blob/master/overview.png)
 
+# Cite
+@article{liu2020overcoming,
+  title={Overcoming Catastrophic Forgetting in Graph Neural Networks},
+  author={Liu, Huihui and Yang, Yiding and Wang, Xinchao},
+  year={2021},
+  booktitle={AAAI Conference on Artificial Intelligence},
+}
+
 # Dependencies
 See the file [requirements.txt](https://github.com/hhliu79/TWP/blob/master/requirements.txt) for more information about how to install the dependencies.
 
