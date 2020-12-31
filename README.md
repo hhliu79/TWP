@@ -42,7 +42,7 @@ Here we provide the implementation of our method based on the Corafull dataset. 
 | Fine-tune   | 51.6±6.4%     | 46.1±7.0%    |
 | LWF     | 57.3±2.3%     | 39.5±3.1%       |
 | GEM   | 84.4±1.1%     | 4.2±1.0%    |
-| EWC     | 86.9±1.7%     | 6.4.5±1.8%       |
+| EWC     | 86.9±1.7%     | 6.4±1.8%       |
 | MAS   | 84.1±1.8%     | 8.6±2.2%    |
 | Ours   | 89.0±0.8%     | 3.3±0.3%       |
 | Joint train   | 91.9±0.8%     | 0.1±0.2%       |
