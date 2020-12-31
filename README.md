@@ -1,5 +1,5 @@
 # PyTorch implementation of TWP
-[Overcoming Catastrophic Forgetting in Graph Neural Networks, AAAI2021](https://arxiv.org/pdf/2012.06002.pdf)
+[Overcoming Catastrophic Forgetting in Graph Neural Networks](https://arxiv.org/pdf/2012.06002.pdf), AAAI2021
 
 # 
 ![image](https://github.com/hhliu79/TWP/blob/master/overview.png)
