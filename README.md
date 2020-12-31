@@ -6,10 +6,10 @@ Overcoming Catastrophic Forgetting in Graph Neural Networks, AAAI2021
 
 # Cite
 @inproceedings{liu2021overcoming,<br>
-   title={Overcoming Catastrophic Forgetting in Graph Neural Networks},<br>
-   author={Liu, Huihui and Yang, Yiding and Wang, Xinchao},<br>
-   year={2021},<br>
-   booktitle={AAAI Conference on Artificial Intelligence},<br>
+  > title={Overcoming Catastrophic Forgetting in Graph Neural Networks},<br>
+  > author={Liu, Huihui and Yang, Yiding and Wang, Xinchao},<br>
+  > year={2021},<br>
+  > booktitle={AAAI Conference on Artificial Intelligence},<br>
 }
 
 # Dependencies
