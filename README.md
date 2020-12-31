@@ -4,20 +4,14 @@ Overcoming Catastrophic Forgetting in Graph Neural Networks, AAAI2021
 # 
 ![image](https://github.com/hhliu79/TWP/blob/master/overview.png)
 
-# Cite
-@inproceedings{liu2021overcoming,<br>
- > title={Overcoming Catastrophic Forgetting in Graph Neural Networks},<br>
- > author={Huihui Liu, Yiding Yang, and Xinchao Wang},<br>  > year={2021},<br>
- > booktitle={AAAI Conference on Artificial Intelligence},<br>
-}
+**cite** contains a PyTorch implementation for our [paper](https://arxiv.org/pdf/2012.06002.pdf).  If you find this code useful in your research, please consider citing:
 
-**cite** contains a Tensorflow implementation for our [paper](https://arxiv.org/abs/1711.08389).  If you find this code useful in your research, please consider citing:
-
-    @inproceedings{plummerCITE2018,
-	Author = {Bryan A. Plummer and Paige Kordas and M. Hadi Kiapour and Shuai Zheng and Robinson Piramuthu and Svetlana Lazebnik},
+    @inproceedings{liu2021overcoming,
+	Author = {Overcoming Catastrophic Forgetting in Graph Neural Networks},
 	Title = {Conditional Image-Text Embedding Networks},
-	Booktitle  = {The European Conference on Computer Vision (ECCV)},
-	Year = {2018}
+	Author = {Huihui Liu, Yiding Yang, and Xinchao Wang},
+	Booktitle  = {AAAI Conference on Artificial Intelligence},
+	Year = {2021}
     }
 
 # Dependencies
