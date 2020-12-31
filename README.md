@@ -1,10 +1,11 @@
 # PyTorch implementation of TWP
-Overcoming Catastrophic Forgetting in Graph Neural Networks, AAAI2021
+[Overcoming Catastrophic Forgetting in Graph Neural Networks, AAAI2021](https://arxiv.org/pdf/2012.06002.pdf)
 
 # 
 ![image](https://github.com/hhliu79/TWP/blob/master/overview.png)
 
-**cite** contains a PyTorch implementation for our [paper](https://arxiv.org/pdf/2012.06002.pdf).  If you find this code useful in your research, please consider citing:
+# Cite
+If you find this code useful in your research, please consider citing:
 
     @inproceedings{liu2021overcoming,
 	Title = {Overcoming Catastrophic Forgetting in Graph Neural Networks},
