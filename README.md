@@ -37,7 +37,7 @@ Here we provide the implementation of our method based on the Corafull dataset. 
 * The file `< run.sh >` contains an example to run the code.
 
 # Results
-| Method | AP (&#8593) | AF(&#8595) |
+| Method | AP (↑) | AF(↓) |
 | :---:         |     :---:      |     :---:    |
 | Fine-tune   | git status     | git status    |
 | LWF     | git diff       | git diff      |
