@@ -37,6 +37,8 @@ Here we provide the implementation of our method based on the Corafull dataset. 
 * The file `< run.sh >` contains an example to run the code.
 
 # Results
+Here we shown the performance comparison on different datasets with GATs as the backbone. For the task performance, we use classification accuracy on Corafull and Amazon Computers datasets, and micro-averaged F1 score for PPI and Reddit datasets. The symbol↑(↓) indicates higher (lower) is better. 
+
 ## Dataset: Corafull
 
 | Method | AP (↑) | AF(↓) |
