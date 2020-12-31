@@ -38,6 +38,6 @@ Here we provide the implementation of our method based on the Corafull dataset. 
 
 # Results
 | Method | AP | AF |
-| :---         |     :---:      |          ---: |
+| :---:         |     :---:      |     :---:    |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
