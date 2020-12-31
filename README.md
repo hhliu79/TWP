@@ -7,8 +7,7 @@ Overcoming Catastrophic Forgetting in Graph Neural Networks, AAAI2021
 **cite** contains a PyTorch implementation for our [paper](https://arxiv.org/pdf/2012.06002.pdf).  If you find this code useful in your research, please consider citing:
 
     @inproceedings{liu2021overcoming,
-	Author = {Overcoming Catastrophic Forgetting in Graph Neural Networks},
-	Title = {Conditional Image-Text Embedding Networks},
+	Title = {Overcoming Catastrophic Forgetting in Graph Neural Networks},
 	Author = {Huihui Liu, Yiding Yang, and Xinchao Wang},
 	Booktitle  = {AAAI Conference on Artificial Intelligence},
 	Year = {2021}
