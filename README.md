@@ -35,3 +35,9 @@ Here we provide the implementation of our method based on the Corafull dataset. 
 * `< training/ >` contains code to set seed;
 * The file `< train.py >` is used to execute the whole training process on the Corafull dataset;
 * The file `< run.sh >` contains an example to run the code.
+
+# Results
+| Method | AP | AF |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
