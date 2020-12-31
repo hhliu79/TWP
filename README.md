@@ -37,6 +37,42 @@ Here we provide the implementation of our method based on the Corafull dataset. 
 * The file `< run.sh >` contains an example to run the code.
 
 # Results
+## Dataset: Corafull
+
+| Method | AP (↑) | AF(↓) |
+| :---:         |     :---:      |     :---:    |
+| Fine-tune   | 51.6±6.4%     | 46.1±7.0%    |
+| LWF     | 57.3±2.3%     | 39.5±3.1%       |
+| GEM   | 84.4±1.1%     | 4.2±1.0%    |
+| EWC     | 86.9±1.7%     | 6.4±1.8%       |
+| MAS   | 84.1±1.8%     | 8.6±2.2%    |
+| Ours   | 89.0±0.8%     | 3.3±0.3%       |
+| Joint train   | 91.9±0.8%     | 0.1±0.2%       |
+
+## Dataset: Amazon Computers
+| Method | AP (↑) | AF(↓) |
+| :---:         |     :---:      |     :---:    |
+| Fine-tune   | 86.5±8.0%     | 12.3±12.3%    |
+| LWF     | 90.3±6.4%     | 9.9±7.0%       |
+| GEM   | 97.1±0.9%     | 0.7±0.5%    |
+| EWC     | 94.5±3.3%     | 4.6±4.5%       |
+| MAS   | 94.0±5.5%     | 5.0±6.9%    |
+| Ours   | 97.3±0.6%     | 0.6±0.2%       |
+| Joint train   | 98.2±0.6%     | 0.02±0.1%       |
+
+
+
+| Method | AP (↑) | AF(↓) |
+| :---:         |     :---:      |     :---:    |
+| Fine-tune   | 51.6±6.4%     | 46.1±7.0%    |
+| LWF     | 57.3±2.3%     | 39.5±3.1%       |
+| GEM   | 84.4±1.1%     | 4.2±1.0%    |
+| EWC     | 86.9±1.7%     | 6.4±1.8%       |
+| MAS   | 84.1±1.8%     | 8.6±2.2%    |
+| Ours   | 89.0±0.8%     | 3.3±0.3%       |
+| Joint train   | 91.9±0.8%     | 0.1±0.2%       |
+
+
 | Method | AP (↑) | AF(↓) |
 | :---:         |     :---:      |     :---:    |
 | Fine-tune   | 51.6±6.4%     | 46.1±7.0%    |
