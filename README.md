@@ -39,5 +39,5 @@ Here we provide the implementation of our method based on the Corafull dataset. 
 # Results
 | Method | AP (↑) | AF(↓) |
 | :---:         |     :---:      |     :---:    |
-| Fine-tune   | git status     | git status    |
+| Fine-tune   | 51.6±6.4%     | 46.1±7.0%    |
 | LWF     | git diff       | git diff      |
